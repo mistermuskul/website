@@ -1,0 +1,239 @@
+header{
+    
+    background-color: #140F0B;
+    height: 100px; 
+    margin: 0px;
+    padding: 0px;
+    margin-top: -21px;
+
+}
+#header{
+    width: 1900px;
+    height: 400px;
+    background-color: #140F0B;
+    margin-bottom: 0px;
+    
+}
+#skills{
+    
+    font: 50px Georgia;
+    
+    display: flex;
+    background-color: #140F0B;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 50px;
+    text-decoration: none;
+}
+
+.VB{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font: 70px Georgia;
+    margin-left: 700px;    
+    margin-top: 80px;   
+}
+.VB2{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin-left: 830px;    
+    margin-top: 150px; 
+}
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    /* padding: 2rem, 2rem, 2rem, 2rem; */
+    
+}
+.frd{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 100px;
+    
+    
+}
+
+.text {
+    /* margin-left: 20px; */
+    padding: 50px;
+   
+}
+
+h3{
+    padding: 50px;
+    font: 50px Georgia;
+    margin-top: 0px;
+
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #444444;  
+}
+
+nav{
+    display: flex;
+    justify-content: right;
+    background-color:  #140F0B;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+main{
+    background-color: white;
+    margin-left: 15px;
+    margin-right: 15px;    
+    padding: 0px;
+
+}
+footer{
+    background-color:  #ffffff;
+    color: #140F0B;
+    margin: -22px;
+    margin-left: 15px;
+    margin-right: 15px;
+   
+}
+
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: flex;
+    background-color:  #140F0B;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 50px;
+    text-decoration: none;
+}
+
+
+.nav li a:hover {
+    background-color: rgb(255, 255, 255);
+    color:  #140F0B;
+}
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.komp{
+    
+    display: flex;
+    align-items: flex-end;    
+    justify-content: space-between;
+    margin: 0 100px;
+   
+    
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    
+}
+.logo img{
+    width: 100px;    
+    height: 65px;
+
+}
+.gap{
+    background-color: #444444;              
+    height: 20px;
+    padding: -200px;
+    
+}
+
+.services{
+    
+    padding-top: 30px;
+    width: 100%;
+    
+}
+.services p {   
+    display: flex;
+    justify-content: center;
+    
+    font: 45px Georgia;
+}
+.services-box{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-bottom: 20px;
+    
+}
+.left{
+    
+   
+    font: 20px Georgia;
+   
+    
+}
+.right {
+      
+    font: 20px Georgia;
+    padding-left: 100px;
+}
+.bgcb{
+    color: #ffffff;
+    background-color: #140F0B;
+}
+
+.last {
+   
+   margin-top: -35px;
+   
+}
+
+.zaglav p {
+    display: flex;
+    justify-content: center;    
+    font: 45px Georgia;
+}
+.soder {
+    display: flex;    
+    justify-content: center;   
+    margin-left:  10%;
+    font: 15px Georgia;
+}
+.button {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;    
+    padding-bottom: 40px;
+    
+}
+.button button {
+    background-color:#ffffff;
+    color: #140F0B;
+   
+}
+.footer-box {
+    padding: 20px 0;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.ftl img {
+    margin-right: 10px;
+}
